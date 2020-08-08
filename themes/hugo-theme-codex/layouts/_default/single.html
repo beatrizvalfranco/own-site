@@ -10,8 +10,10 @@
         <div class="post">
           <header class="post__header">
             <h1 id="post__title">{{.Title}}</h1>
+            {{ if not .Params.hideDate }}
             <time datetime="{{ .Date }}" class="post__date"
             >{{ .Date.Format $dateFormat }}</time>
+            {{ end }}
           </header>
           <article class="post__content">
               {{ partial "anchored-headings.html" .Content }}
@@ -23,7 +25,7 @@
           {{ template "_internal/disqus.html" . }}
           <footer class="post__footer">
             {{ partial "social-icons.html" .}}
-            <p>{{ replace .Site.Copyright "{year}" now.Year }}</p>
+            <p><span class="copyleft">&copy;</span> {{ replace .Site.Copyright "{year}" now.Year }}</p>
           </footer>
           </div>
       </div>
