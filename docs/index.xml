@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beatriz</title>
+    <link>https://beatrizvalfranco.github.io/own-site/</link>
+    <description>Recent content on Beatriz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Fri, 07 Aug 2020 09:19:29 -0300</lastBuildDate>
+    
+	<atom:link href="https://beatrizvalfranco.github.io/own-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://beatrizvalfranco.github.io/own-site/about/</link>
+      <pubDate>Fri, 07 Aug 2020 09:19:29 -0300</pubDate>
+      
+      <guid>https://beatrizvalfranco.github.io/own-site/about/</guid>
+      <description>jakjsjkhs sdkjahkdha ajdkah</description>
+    </item>
+    
+    <item>
+      <title>Welcome To Me</title>
+      <link>https://beatrizvalfranco.github.io/own-site/posts/example-xablau/</link>
+      <pubDate>Tue, 04 Aug 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://beatrizvalfranco.github.io/own-site/posts/example-xablau/</guid>
+      <description>Trying neew stuff Oi, ahsgsjdgaskdh. alsdhkahdlad sdhashgdasda asakjfklask
+jhkhld; lkhfldof djshf;skd f jdfl;dskf</description>
+    </item>
+    
+  </channel>
+</rss>

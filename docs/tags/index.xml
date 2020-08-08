@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Beatriz</title>
+    <link>https://beatrizvalfranco.github.io/own-site/tags/</link>
+    <description>Recent content in Tags on Beatriz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Fri, 07 Aug 2020 09:19:29 -0300</lastBuildDate>
+    
+	<atom:link href="https://beatrizvalfranco.github.io/own-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>eu</title>
+      <link>https://beatrizvalfranco.github.io/own-site/tags/eu/</link>
+      <pubDate>Fri, 07 Aug 2020 09:19:29 -0300</pubDate>
+      
+      <guid>https://beatrizvalfranco.github.io/own-site/tags/eu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ich</title>
+      <link>https://beatrizvalfranco.github.io/own-site/tags/ich/</link>
+      <pubDate>Fri, 07 Aug 2020 09:19:29 -0300</pubDate>
+      
+      <guid>https://beatrizvalfranco.github.io/own-site/tags/ich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>https://beatrizvalfranco.github.io/own-site/tags/me/</link>
+      <pubDate>Fri, 07 Aug 2020 09:19:29 -0300</pubDate>
+      
+      <guid>https://beatrizvalfranco.github.io/own-site/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://beatrizvalfranco.github.io/own-site/tags/blog/</link>
+      <pubDate>Tue, 04 Aug 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://beatrizvalfranco.github.io/own-site/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://beatrizvalfranco.github.io/own-site/tags/go/</link>
+      <pubDate>Tue, 04 Aug 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://beatrizvalfranco.github.io/own-site/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gohugo</title>
+      <link>https://beatrizvalfranco.github.io/own-site/tags/gohugo/</link>
+      <pubDate>Tue, 04 Aug 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://beatrizvalfranco.github.io/own-site/tags/gohugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://beatrizvalfranco.github.io/own-site/tags/hugo/</link>
+      <pubDate>Tue, 04 Aug 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://beatrizvalfranco.github.io/own-site/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>newpost</title>
+      <link>https://beatrizvalfranco.github.io/own-site/tags/newpost/</link>
+      <pubDate>Tue, 04 Aug 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://beatrizvalfranco.github.io/own-site/tags/newpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>site</title>
+      <link>https://beatrizvalfranco.github.io/own-site/tags/site/</link>
+      <pubDate>Tue, 04 Aug 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://beatrizvalfranco.github.io/own-site/tags/site/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
